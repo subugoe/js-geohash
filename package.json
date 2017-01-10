@@ -1,0 +1,16 @@
+{
+  "name": "js-geohash",
+  "version": "1.0.0",
+  "description": "javascript geohash library",
+  "main": "geohash.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/subugoe/js-geohash.git"
+  },
+  "author": "Matsumoto Yuuki",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/subugoe/js-geohash/issues"
+  },
+  "homepage": "https://github.com/subugoe/js-geohash#readme"
+}
